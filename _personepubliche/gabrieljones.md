@@ -6,5 +6,6 @@ ruolo: Fondatore
 unità: GJD
 ufficio: n/A
 email: gabriel.jones@gjdev.it
-foto:
+foto:/assets/images/gjones.png
+permalink: /persone-pubbliche/gabrieljones/
 ---
