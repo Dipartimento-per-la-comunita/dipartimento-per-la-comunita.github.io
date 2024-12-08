@@ -1,4 +1,5 @@
 ---
+layout: persona
 nome: Gabriel
 cognome: Jones
 ruolo: Fondatore
